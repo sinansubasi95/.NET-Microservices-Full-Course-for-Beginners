@@ -49,6 +49,10 @@
               "target": "Package",
               "version": "[7.0.4, )"
             },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
             "Play.Common": {
               "target": "Package",
               "version": "[1.0.0, )"
